@@ -1,0 +1,744 @@
+/* CSS Document */
+#helpcenter
+{
+	width:200px;
+	height:50px;
+	
+	position:absolute;
+	top:185px;
+}
+
+#helpmenu
+{
+	margin:0;
+	padding:0;
+	
+	
+}
+#helpmenu ul
+{
+	margin:0;
+	padding:0;
+	
+	
+}
+#helpmenu li
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+	position:relative;
+	top:3px;
+	
+	
+}
+
+#helpmenu ul li a
+{
+	
+	text-align:center;
+	text-decoration:none;
+	width:150px;
+	height:30px;
+	display:block;
+	color: #020202;
+}
+#helpmenu ul ul
+{
+	position:absolute;
+	visibility:hidden;
+	top:30px;
+	
+}
+#helpmenu ul li:hover ul
+{
+	visibility:visible;	
+	
+}
+#helpmenu li:hover
+{
+	background-color:#F3E690;
+}
+#accordion h2
+{
+	background:#D5D2D2;
+	
+	
+}
+#accordioncontainer
+{
+	
+	width:1100px;
+	height:auto ;
+	position:absolute;
+	left:140px;
+}
+#faqsfooter
+{
+	float:left;
+	position: absolute;
+	bottom:-320px;
+	right:340px;
+	width: 450px;
+	height:auto;
+	margin: 0 ;
+}
+#price
+{
+	
+	float:left;
+	position:absolute;
+	top:1060px;
+	right:360px;
+	width: 750px;
+	height:0;
+	margin: 0 ;
+	
+	
+}
+
+#pricehigh1
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:-27px;
+	left:99px;
+	
+	
+	
+	
+}
+#pricehigh2
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:-27px;
+	left:315px;
+}
+#pricehigh3
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:-27px;
+	left:547px;
+	
+}
+#pricehigh4
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:-27px;
+	right:-27px;
+}
+#pricehigh5
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:245px;
+	left:96px;
+}
+#pricehigh6
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:245px;
+	left:320px;
+}
+#pricehigh7
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:245px;
+	left:540px;
+}
+#pricehigh8
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:245px;
+	left:755px;
+}
+#pricehigh9
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:525px;
+	left:105px;
+	
+}
+#pricehigh10
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:525px;
+	left:325px;
+	
+}
+#pricehigh11
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:525px;
+	left:545px;
+
+}
+#pricehigh12
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:525px;
+	left:760px;
+
+}
+#highpricebox
+{
+	width: 150px;
+	height: 50px;
+	margin-left:10px;
+	position: absolute;
+	top: 175px;
+	left: 6px;
+	
+	
+}
+#highpricebox2
+{
+	width:173px;
+	height:50px;
+	position:absolute;
+	top:175px;
+	right:540px;
+	
+		
+	
+	
+	
+}
+#highpricebox3
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:175px;
+	right:340px;
+	
+	
+	
+}
+#highpricebox4
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:175px;
+	right:120px;
+	
+	
+	
+}
+#highpricebox5
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:450px;
+	left:14px;
+	}
+#highpricebox6
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:450px;
+	left:235px;
+}
+#highpricebox7
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:450px;
+	left:450px;
+	
+}
+#highpricebox8
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:450px;
+	left:669px;
+	}
+#highpricebox9
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:730px;
+	left:22px;
+	
+	
+}
+#highpricebox10
+{
+	width:170px;
+	height:50px;
+	position:absolute;
+	top:730px;
+	left:235px;
+	
+	
+}
+#highpricebox11
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:730px;
+	left:452px;
+	
+}
+#highpricebox12
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:730px;
+	left:670px;
+	
+}
+#highpricep1
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	
+	
+	
+}
+#highpricep2
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	
+	
+}
+#highpricep3
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	
+}
+
+#highpricep4
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	
+	
+}
+#highpricep5
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+	
+	
+	
+}
+#highpricep6
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+#highpricep7
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+#highpricep8
+{
+	width:180px;
+	height:160px;
+	padding-top:100px;
+	padding:16px;
+	
+	
+}
+#highpricep9
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+	
+}
+#highpricep10
+{
+		width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+#highpricep11
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+#highpricep12
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+/*<<<-------end of highprice section---------->*/
+
+#lowprice1
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:-27px;
+	left:99px;
+	
+	
+	
+	
+}
+#lowprice2
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:-27px;
+	left:315px;
+}
+#lowprice3
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:-27px;
+	left:547px;
+	
+}
+#lowprice4
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:-27px;
+	right:-27px;
+}
+#lowprice5
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:245px;
+	left:96px;
+}
+#lowprice6
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:245px;
+	left:315px;
+}
+#lowprice7
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:245px;
+	left:540px;
+}
+#lowprice8
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:245px;
+	left:755px;
+}
+#lowprice9
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:525px;
+	left:105px;
+	
+}
+#lowprice10
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:525px;
+	left:325px;
+	
+}
+#lowprice11
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:525px;
+	left:535px;
+
+}
+#lowprice12
+{
+	width:55px;
+	height:30px;
+	position:absolute;
+	top:525px;
+	left:760px;
+
+}
+#lowpricebox1
+{
+	width: 170px;
+	height: 50px;
+	margin-left:10px;
+	position: absolute;
+	top: 175px;
+	left: 6px;
+	
+	
+}
+#lowpricebox2
+{
+	width:173px;
+	height:50px;
+	position:absolute;
+	top:175px;
+	right:540px;
+	
+		
+	
+	
+	
+}
+#lowpricebox3
+{
+	width:170px;
+	height:50px;
+	position:absolute;
+	top:175px;
+	right:330px;
+	
+	
+	
+}
+#lowpricebox4
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:175px;
+	right:120px;
+	
+	
+	
+}
+#lowpricebox5
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:450px;
+	left:14px;
+	}
+#lowpricebox6
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:450px;
+	left:235px;
+}
+#lowpricebox7
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:450px;
+	left:450px;
+	
+}
+#lowpricebox8
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:450px;
+	left:669px;
+	}
+#lowpricebox9
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:730px;
+	left:22px;
+	
+	
+}
+#lowpricebox10
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:730px;
+	left:235px;
+	
+	
+}
+#lowpricebox11
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:730px;
+	left:452px;
+	
+}
+#lowpricebox12
+{
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:730px;
+	left:670px;
+	
+}
+#lowpricep1
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	
+	
+	
+}
+#lowpricep2
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	
+	
+}
+#lowpricep3
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	
+}
+
+#lowpricep4
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	
+	
+}
+#lowpricep5
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+	
+	
+	
+}
+#lowpricep6
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+#lowpricep7
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+#lowpricep8
+{
+	width:180px;
+	height:160px;
+	padding-top:100px;
+	padding:16px;
+	
+	
+}
+#lowpricep9
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+	
+}
+#lowpricep10
+{
+		width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+#lowpricep11
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+#lowpricep12
+{
+	width:180px;
+	height:160px;
+	padding:16px;
+	padding-top:100px;
+}
+.sort
+{
+	font-size:13px;
+	
+}
+.sort option
+{
+	background-color:#F3E6C1;}
